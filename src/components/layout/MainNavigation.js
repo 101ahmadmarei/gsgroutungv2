@@ -14,7 +14,7 @@ const MainNavigation = () => {
             >
               All Quotes
             </NavLink> */}
-            <a href="/">All Quotes</a>
+            <a href="allQuotes">All Quotes</a>
           </li>
           <li>
             {" "}
@@ -24,7 +24,7 @@ const MainNavigation = () => {
             >
               Add a Quote
             </NavLink> */}
-            <a href="/">Add a Quote</a>
+            <a href="addQuotes">Add a Quote</a>
           </li>
         </ul>
       </nav>
